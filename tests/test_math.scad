@@ -1,5 +1,5 @@
-include <BOSL/constants.scad>
-include <BOSL/math.scad>
+include <../constants.scad>
+include <../math.scad>
 
 eps = 1e-9;
 

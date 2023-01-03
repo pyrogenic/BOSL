@@ -1,7 +1,7 @@
-include <BOSL/constants.scad>
-use <BOSL/transforms.scad>
-use <BOSL/beziers.scad>
-use <BOSL/math.scad>
+include <../constants.scad>
+use <../transforms.scad>
+use <../beziers.scad>
+use <../math.scad>
 
 
 function CR_corner(size, orient=[0,0,0], trans=[0,0,0]) =

@@ -1,5 +1,5 @@
-include <BOSL/math.scad>
-include <BOSL/convex_hull.scad>
+include <../math.scad>
+include <../convex_hull.scad>
 
 
 testpoints_on_sphere = [ for(p = 

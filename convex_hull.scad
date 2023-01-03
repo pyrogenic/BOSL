@@ -9,7 +9,7 @@
 //   - https://github.com/openscad/scad-utils
 //////////////////////////////////////////////////////////////////////
 
-include <BOSL/math.scad>
+include <math.scad>
 
 
 
